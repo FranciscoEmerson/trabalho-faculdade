@@ -28,7 +28,7 @@ nav {
 }
 
 main {
-    background: url("/imagens-html/selvup.jpg") no-repeat center center;
+    background: url("/assets/selvup.jpg") no-repeat center center;
     background-size: auto;
     height: 92vh;
     

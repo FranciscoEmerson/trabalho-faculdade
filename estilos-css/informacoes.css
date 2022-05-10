@@ -79,7 +79,7 @@ nav {
 }
 
 main {
-    background: url("/imagens-html/aligator.jpg") no-repeat center center;
+    background: url("/assets/aligator.jpg") no-repeat center center;
     background-size: conver;
     height: 92vh;
 }
